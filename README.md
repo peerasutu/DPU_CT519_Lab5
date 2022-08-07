@@ -13,7 +13,7 @@
   
 4) Then run Docker image by type command : sudo docker run -dit -p 8080:8080 peerasutu/dpu_ct519_lab5:latest
    
-   
+   ![pic4](https://user-images.githubusercontent.com/51110675/183295438-9516af7e-91ae-4768-97d3-905382150378.png)
    
 5) To check the result, use command : curl 127.0.0.1 
 
