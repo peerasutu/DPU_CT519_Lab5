@@ -9,7 +9,7 @@
    
 3) Change directory to ~/DPU_CT519_Lab5 and build Docker image by type command : sudo docker build -t peerasutu/dpu_ct519_lab5:latest .
 
-   
+   ![pic3](https://user-images.githubusercontent.com/51110675/183295151-48ac668d-b031-48a1-9b47-1e85bfe5b880.png)
   
 4) Once finishes the compose, the terminal program will be shown as below :
    
