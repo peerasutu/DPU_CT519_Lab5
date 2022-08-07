@@ -1,7 +1,7 @@
 # How to git clone DPU_CT519_Lab5 project on Ubuntu
 1) On Ubuntu terminal, type command : git clone https://github.com/peerasutu/DPU_CT519_Lab5.git
 
-   
+   ![pic1](https://user-images.githubusercontent.com/51110675/183294551-abde695f-034a-401e-be6f-e0c8b06d34b7.png)
    
 2) After enter the command, the project was copied into home user folder as shown in picture below:
 
