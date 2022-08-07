@@ -15,7 +15,7 @@
    
    ![pic4](https://user-images.githubusercontent.com/51110675/183295438-9516af7e-91ae-4768-97d3-905382150378.png)
    
-5) To check the result, use command : curl 127.0.0.1 
+5) To check the result, use command : curl 127.0.0.1:8080
 
    
 
