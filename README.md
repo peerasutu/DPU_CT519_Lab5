@@ -7,10 +7,10 @@
 
    ![pic2](https://user-images.githubusercontent.com/51110675/183294508-2b188e5b-f52d-47a8-bb9d-2e83f9cca92b.png)
    
-3) To run Docker compose command, type command : sudo docker compose up -d as shown in picture below:   
-   
-   
+3) Change directory to ~/DPU_CT519_Lab5 and build Docker image by type command : sudo docker build -t peerasutu/dpu_ct519_lab5:latest .
 
+   
+  
 4) Once finishes the compose, the terminal program will be shown as below :
    
    
