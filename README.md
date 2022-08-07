@@ -25,7 +25,7 @@
 
 7) At host computer (Windows), from Web Browser type URL : http://192.168.50.152:8080 
    
-  
+   ![pic11](https://user-images.githubusercontent.com/51110675/183297989-2570d28a-9b4b-4e73-b9fd-06c657c9e658.png)
    
    ![pic9](https://user-images.githubusercontent.com/51110675/183297584-0d0c36c3-aceb-4df3-9f1c-1e926a359cd3.png)
    
