@@ -11,7 +11,7 @@
 
    ![pic3](https://user-images.githubusercontent.com/51110675/183295151-48ac668d-b031-48a1-9b47-1e85bfe5b880.png)
   
-4) Once finishes the compose, the terminal program will be shown as below :
+4) Then run Docker image by type command : sudo docker run -dit -p 8080:8080 peerasutu/dpu_ct519_lab5:latest
    
    
    
